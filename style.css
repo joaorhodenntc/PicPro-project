@@ -1,0 +1,67 @@
+body {
+    background-color: #4a8864;
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 150px;
+}
+
+.cabecalho {
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.cabecalho .container {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho figure img {
+    width: 100%;
+    max-width: 140px;
+}
+
+.cabecalho .cabecalho_logopicpro {
+    border-right: 1px solid #fff;
+    margin-right: 15px;
+}
+
+.cabecalho .cabecalho_logokenzie {
+    padding-top: 5px;
+}
+
+.secaoDetalhesConta {
+    color: #fff;
+    padding: 50px 0 30px;
+}
+
+.secaoDetalhesConta_sobreUsuario {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.secaoDetalhesConta_sobreUsuario p {
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.secaoDetalhesConta_sobreUsuario img {
+    width: 100%;
+    max-width: 50px;
+}
+
+.secaoDetalhesConta_sobreUsuario_icones {
+    width: 100%;
+    display: flex;
+    margin-left: 250px;
+    max-width: 30px;
+    height: 30px;
+}
+
+.chat {
+    margin-left: 20px;
+}
